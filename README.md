@@ -67,6 +67,7 @@ https://github.com/saitamabit/Advanced_Java/blob/main/Experiment-8-JDBC1/8d2.png
 https://github.com/saitamabit/Advanced_Java/blob/main/Experiment-8-JDBC1/8d3.png<br>
 
 **OUTPUT FOR EXPERIMENT 9- JDBC2:**
+
 https://github.com/saitamabit/Advanced_Java/blob/main/Experiment-9-JDBC2/9aa.png<br>
 https://github.com/saitamabit/Advanced_Java/blob/main/Experiment-9-JDBC2/9b.png<br>
 https://github.com/saitamabit/Advanced_Java/blob/main/Experiment-9-JDBC2/9c1.png<br>
